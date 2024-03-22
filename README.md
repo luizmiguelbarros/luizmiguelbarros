@@ -7,7 +7,7 @@
 
 
 <p>
-  -😃 Sou o Luiz! Faço faculdade e estudo programação paralelamente na Alura
+  -😃 Sou o Luiz! Faço faculdade de Sistemas de Informação na Universidade Vila Velha e estudo programação paralelamente na Alura!
 
   -✌ Estou sempre em constante desenvolvimento e adoro Java!
 
