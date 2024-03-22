@@ -4,6 +4,10 @@
 </div>
 
 <!-- Presentation -->
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmiguelbarros&show_icons=true&theme=gotham)
+
 <p>
   -😃 Sou o Luiz! Faço faculdade e estudo programação paralelamente na Alura
 
@@ -21,15 +25,11 @@
   - ⚡ Gosto de ler livros, assistir animes e amo a sitcom The Office. Também gosto de jogar e praticar esportes \o/
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiguelbarros&layout=compact)
-
-
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizmiguelblopes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-miguel-barros-lopes-223852208/)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmiguelbarros&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiguelbarros&layout=compact)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
