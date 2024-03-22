@@ -5,13 +5,6 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<!--- Snake --->
-
-<div align="center">
-  < img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-    alt="snake"
-</div>
-
 <!-- Presentation -->
 <p>
   Olá 😃 Sou o Luiz! Faço faculdade e estudo programação paralelamente na Alura
