@@ -21,6 +21,9 @@
   - ⚡ Gosto de ler livros, assistir animes e amo a sitcom The Office. Também gosto de jogar e praticar esportes \o/
 </details>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiguelbarros&layout=compact)
+
+
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizmiguelblopes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-miguel-barros-lopes-223852208/)
