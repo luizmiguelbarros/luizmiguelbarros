@@ -5,11 +5,11 @@
 
 <!-- Presentation -->
 <p>
-  - 😃 Sou o Luiz! Faço faculdade e estudo programação paralelamente na Alura
+  -😃 Sou o Luiz! Faço faculdade e estudo programação paralelamente na Alura
 
-  - ✌ Estou sempre em constante desenvolvimento e adoro Java!
+  -✌ Estou sempre em constante desenvolvimento e adoro Java!
 
-  - 🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software ಥ_ಥ !!! 🌱
+  -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software ಥ_ಥ !!! 🌱
 </p>
 
 <!-- Dropdown -->
