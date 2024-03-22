@@ -5,8 +5,6 @@
 
 <!-- Presentation -->
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmiguelbarros&show_icons=true&theme=gotham)
 
 <p>
   -😃 Sou o Luiz! Faço faculdade e estudo programação paralelamente na Alura
@@ -31,6 +29,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiguelbarros&layout=compact)
 
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmiguelbarros&show_icons=true&theme=gotham)
+
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -47,4 +48,5 @@
     <img align="center" alt="Java" height ="50" width="50" src= "https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png">
 
   </div>
+  
 
