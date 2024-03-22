@@ -1,5 +1,3 @@
-### Olá Mundo!
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
@@ -7,7 +5,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 😃 Sou o Luiz! Faço faculdade e estudo programação paralelamente na Alura
+  - 😃 Sou o Luiz! Faço faculdade e estudo programação paralelamente na Alura
 
   - ✌ Estou sempre em constante desenvolvimento e adoro Java!
 
