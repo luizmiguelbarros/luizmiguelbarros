@@ -18,7 +18,6 @@
 <details>
   <summary>👨‍💻 Mais sobre mim! </summary>
 
-  - 💬 Eu tenho 21 anos, e faço faculdade de Sistemas de Informação na Universidade Vila Velha - ES. Atualmente estou aprendendo programação orientada a objetos em Java.
 
   - ⚡ Gosto de ler livros, assistir animes e amo a sitcom The Office. Também gosto de jogar e praticar esportes \o/
 </details>
