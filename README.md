@@ -11,8 +11,8 @@
 
   -✌ Estou sempre em constante desenvolvimento e adoro Java!
 
-  -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software ಥ_ಥ !!! 🌱
-</p>
+  -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software.
+</p
 
 <!-- Dropdown -->
 <details>
