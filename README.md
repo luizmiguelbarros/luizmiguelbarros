@@ -21,7 +21,7 @@
 
   - ⚡ Gosto de ler livros, assistir animes e amo a sitcom The Office. Também gosto de jogar e praticar esportes \o/
   - 🤔 Me autodescrevo como homem de 1.80 de altura, porte atlético, pele clara, olhos castanhos, cabelos castanhos cacheados e óculos de grau retangulares
-  - 🧠 Rotina: De segunda à sexta, na parte da manhã eu estudo programação e/ou outras coisas na área ( UX, controle de versão, orientação à objetos, no geral conteúdos com um pouco mais de teoria ), algumas horas após almoçar vou para a academia e de noite vou para a universidade. Aos sábados, treino handebol com meu time da atlética ( Tubarões de TI ) e na parte da tarde, jogo futebol com meus amigos. Aos domingos, descanso e jogo jogos online com estes mesmos amigos! É uma rotina simples, mas é aí onde mora a beleza 
+  - 🧠 Rotina: De segunda à sexta, na parte da manhã eu estudo programação e/ou outras coisas na área ( UX, controle de versão, orientação à objetos, no geral conteúdos com um pouco mais de teoria ), algumas horas após almoçar vou para a academia e de noite vou para a universidade. Aos sábados de manhã, treino handebol com meu time da atlética ( Tubarões de TI ) e na parte da tarde, jogo futebol com meus amigos. Aos domingos, descanso e jogo jogos online com estes mesmos amigos! É uma rotina simples, mas é aí onde mora a beleza 
 </details>
 
 <!-- Links -->
