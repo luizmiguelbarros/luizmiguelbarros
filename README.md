@@ -9,7 +9,7 @@
 <p>
   -😃 Sou o Luiz! Faço faculdade de Sistemas de Informação na Universidade Vila Velha e estudo programação paralelamente na Alura!
 
-  -✌ Em constante desenvolvimento.
+  -✌ Em constante desenvolvimento!
 
   -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software.
 </p
