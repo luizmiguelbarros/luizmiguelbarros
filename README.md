@@ -4,7 +4,7 @@
     <h2>🚨Período de Prova: 25/03 - 05/04 🚨</h2>
     <h3>✍Aprendendo TypeScript...</h3>
       
-    </summary>
+</summary>
 </div>
 
 <!-- Presentation -->
