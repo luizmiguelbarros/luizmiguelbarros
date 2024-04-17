@@ -1,7 +1,10 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">"A jornada de mil milhas começa com um único passo." - Lao Tsé.</h1>
-    <h2>🚨Período de Prova: 25/03 - 05/04 🚨</h2></summary>
+    <h2>🚨Período de Prova: 25/03 - 05/04 🚨</h2>
+    <h3>✍Aprendendo TypeScript...</h3>
+      
+    </summary>
 </div>
 
 <!-- Presentation -->
