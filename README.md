@@ -17,7 +17,7 @@
 
   -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software!
 
-  -✍Aprendendo TypeScript...
+  -✍Aprendendo TypeScript, me preparando para o Angular
 </p
 
 <!-- Dropdown -->
