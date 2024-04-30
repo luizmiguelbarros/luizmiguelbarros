@@ -52,9 +52,14 @@
     <h3>Controles de versionamentos que utilizo</h3>
     <img align="center" alt="Java" height ="40" width="50" src= "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
     <img align="center" alt="Java" height ="50" width="50" src= "https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
-    <h3>IDE's que eu utilizo</h3>
+    <h3>Plataformas de desenvolvimento que eu utilizo</h3>
     <img align="center" alt="Java" height ="50" width="50" src= "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
     <img align="center" alt="Java" height ="50" width="50" src= "https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png">
+    <img align="center" alt="Java" height ="50" width="50" src= "https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
+
+
+
+
 
   </div>
   
