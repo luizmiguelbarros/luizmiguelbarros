@@ -38,9 +38,6 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmiguelbarros&show_icons=true&theme=synthwave)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiguelbarros)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
