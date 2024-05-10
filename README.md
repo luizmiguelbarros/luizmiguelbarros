@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=luizmiguelbarros&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">"A jornada de mil milhas começa com um único passo." - Lao Tsé.</h1>
