@@ -12,7 +12,7 @@
 
 
 <p>
-  -😃 Eu sou o Luiz! Faço faculdade de Sistemas de Informação na Universidade Vila Velha e estudo programação paralelamente na Alura!
+  -😃 Olá! Eu sou o Luiz! Faço faculdade de Sistemas de Informação na Universidade Vila Velha e estudo programação paralelamente na Alura!
 
   -✌ Em constante desenvolvimento
 
