@@ -2,7 +2,6 @@
   <ul align="center">
     
   <summary><h1 style="display: inline-block">"A jornada de mil milhas começa com um único passo." - Lao Tsé</h1>
-    <h2>🚨Período de Prova: 10/06 até 15/06 🚨</h2>
     
       
 </summary>
