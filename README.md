@@ -47,6 +47,7 @@
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Java" height ="40" width="50" src= "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" >
+    <img align="center" alt="Java" height ="40" width="50" src= "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" >
     <img align="center" alt="Java" height ="50" width="50" src= "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
     <img align="center" alt="Java" height ="50" width="50" src= "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
     <h3>Controles de versionamentos</h3>
