@@ -17,7 +17,7 @@
 
   -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software!
 
-  -✍Aprendendo Angular!
+  -✍Aprendendo Angular e SQL
 </p
 
 <!-- Dropdown -->
