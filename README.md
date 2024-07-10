@@ -15,7 +15,7 @@
 
   -✌ Em constante desenvolvimento
 
-  -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software!
+  -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software
 
 </p
 
