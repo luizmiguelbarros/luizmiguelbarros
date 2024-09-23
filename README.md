@@ -25,7 +25,7 @@
 
 
   - ⚡ Gosto de ler livros, assistir animes e amo a sitcom The Office. Também gosto de jogar e praticar esportes 🤾‍♂️🏋️‍♂️💪
-  - 🤔 ACESSIBILIDADE! Me autodescrevo como homem de 1.80 de altura, porte atlético, pele clara, olhos castanhos, cabelos castanhos cacheados e óculos de grau retangulares!
+  - 🤔 ACESSIBILIDADE! Me autodescrevo como um homem de porte atlético, pele clara, olhos castanhos, cabelos castanhos cacheados e óculos de grau retangulares!
 
 </details>
 
