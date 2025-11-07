@@ -11,11 +11,11 @@
 
 
 <p>
-  -😃 Olá, eu sou o Luiz! Faço faculdade de Sistemas de Informação na Universidade Vila Velha e estudo programação paralelamente na Alura.
+  Olá, eu sou o Luiz! Faço faculdade de Sistemas de Informação na Universidade Vila Velha e estudo programação paralelamente na Alura.
 
-  -✌ Em constante desenvolvimento.
+  Em constante desenvolvimento.
 
-  -🔭 Estou procurando minha primeira oportunidade de estágio na área de desenvolvimento de software.
+  Estou procurando oportunidades de estágio na área de desenvolvimento de software.
 
 </p
 
@@ -23,14 +23,12 @@
 <details>
   <summary>👨‍💻 Mais sobre mim! </summary>
 
-
-  - ⚡ Gosto de ler livros, assistir animes e amo a sitcom The Office. Também gosto de jogar e praticar esportes 🤾‍♂️🏋️‍♂️💪
-  - 🤔 ACESSIBILIDADE! Me autodescrevo como um homem de porte atlético, pele clara, olhos castanhos, cabelos castanhos cacheados e óculos de grau retangulares!
+  Gosto de ler livros, assistir animes e amo a sitcom The Office. Também gosto de jogar e praticar esportes 🤾‍♂️🏋️‍♂️💪
 
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizmiguelblp/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizmiguel.java/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-miguel-barros-lopes-223852208/)
 
 <!-- GithubStats -->
